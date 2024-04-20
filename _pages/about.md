@@ -75,7 +75,7 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/PIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explore In-Context Learning for 3D Point Cloud Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html) \\
+[Explore In-Context Learning for 3D Point Cloud Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html) **<span style="color:red">(Spotlight)</span>** \\
 **Zhongbin Fang**, Xiangtai Li, Xia Li, Joachim M Buhmann, Chen Change Loy, Mengyuan Liu📧
 
 <a href='https://arxiv.org/pdf/2306.08659.pdf'>
