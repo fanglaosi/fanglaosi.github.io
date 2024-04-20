@@ -121,7 +121,7 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
   <img src='https://img.shields.io/badge/Source-Code-yellow?style=flat&logo=Google%20chrome&logoColor=yellow' alt='Project Page'>
 </a>
 
--  Introduce a challenging occluded point cloud classification dataset ModelNet-O.
+-  Propose a challenging occluded point cloud classification dataset ModelNet-O.
 -  Propose a robust occlusion-aware method, PointMLS, based on a multi-level sampling strategy.
 
 </div>
