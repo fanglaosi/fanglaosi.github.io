@@ -40,7 +40,12 @@ I received a B.S. degree from Jinan University.
 [Point-In-Context: Understanding Point Cloud via In-Context Learning](https://arxiv.org/abs/2404.12352) \\
 Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Xiangtai Li, Chen Change Loy
 
-[**Page**](https://fanglaosi.github.io/Point-In-Context_Pages/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+<a href='https://arxiv.org/pdf/2404.12352.pdf'>
+  <img src='https://img.shields.io/badge/Paper-PDF-blue?style=flat&logo=arXiv&logoColor=blue' alt='arXiv PDF'>
+</a>
+<a href='https://fanglaosi.github.io/Point-In-Context_Pages/' style='padding-left: 0.5rem;'>
+  <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
+</a>
 
 - testing
 
@@ -52,9 +57,15 @@ Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Xiangtai Li,
 <div class='paper-box-text' markdown="1">
 
 [Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning](https://arxiv.org/abs/2312.03703) \\
-Xinshun Wang*, **Zhongbin Fang***, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu📧
+Xinshun Wang\ast, **Zhongbin Fang\ast**, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu📧
 
-[**Page**](https://bradleywang0416.github.io/skeletonincontext/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+<a href='https://arxiv.org/pdf/2312.03703.pdf'>
+  <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+</a>
+<a href='https://bradleywang0416.github.io/skeletonincontext/' style='padding-left: 0.5rem;'>
+  <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=Google%20chrome&logoColor=green' alt='Project Page'>
+</a>
+
 
 - testing
 
@@ -67,7 +78,12 @@ Xinshun Wang*, **Zhongbin Fang***, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu�
 [Explore In-Context Learning for 3D Point Cloud Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html) \\
 **Zhongbin Fang**, Xiangtai Li, Xia Li, Joachim M Buhmann, Chen Change Loy, Mengyuan Liu📧
 
-[**Code**](https://github.com/fanglaosi/Point-In-Context) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+<a href='https://arxiv.org/pdf/2306.08659.pdf'>
+  <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='arXiv PDF'>
+</a>
+<a href='https://github.com/fanglaosi/Point-In-Context' style='padding-left: 0.5rem;'>
+  <img src='https://img.shields.io/badge/Source-Code-red?style=flat&logo=Google%20chrome&logoColor=red' alt='Project Page'>
+</a>
 
 - testing
 
@@ -80,7 +96,12 @@ Xinshun Wang*, **Zhongbin Fang***, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu�
 [ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification](https://arxiv.org/abs/2401.08210) \\
 **Zhongbin Fang**, Xia Li, Xiangtai Li, Shen Zhao📧, Mengyuan Liu📧
 
-[**Code**](https://github.com/fanglaosi/PointMLS) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+<a href='https://arxiv.org/pdf/2401.08210.pdf'>
+  <img src='https://img.shields.io/badge/Paper-PDF-orange?style=flat&logo=arXiv&logoColor=orange' alt='arXiv PDF'>
+</a>
+<a href='https://github.com/fanglaosi/PointMLS' style='padding-left: 0.5rem;'>
+  <img src='https://img.shields.io/badge/Source-Code-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Project Page'>
+</a>
 
 - testing
 
@@ -92,13 +113,13 @@ Xinshun Wang*, **Zhongbin Fang***, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu�
 
 
 # 🎖 Honors and Awards
-- *2022.10*  The **First Prize Scholarship** of Sun Yat-sen University
-- *2022.06*  **Outstanding Graduate** of Jinan University
-- *2021.10*  **National Scholarship** of Jinan University(4%)
-- *2020.10*  The **First Prize Scholarship** and Outstanding Student Leader of Jinan University
-- *2019.10*  The **First Prize Scholarship** and Outstanding Student Leader of Jinan University
+- *2022.10* &nbsp; The **First Prize Scholarship** of Sun Yat-sen University
+- *2022.06* &nbsp; **Outstanding Graduate** of Jinan University
+- *2021.10* &nbsp; **National Scholarship** of Jinan University(4%)
+- *2020.10* &nbsp; The **First Prize Scholarship** and Outstanding Student Leader of Jinan University
+- *2019.10* &nbsp; The **First Prize Scholarship** and Outstanding Student Leader of Jinan University
 
 # 📖 Educations
-- *2022.09 - (now)*, Master, Sun Yat-sen University, Shenzhen.
-- *2018.09 - 2022.06*, Undergraduate, Jinan University, Zhuhai.
-- *2015.09 - 2018.06*, No.113 Middle School, Guangzhou.
+- *2022.09 - (Now)* &nbsp; Master, Sun Yat-sen University, Shenzhen.
+- *2018.09 - 2022.06* &nbsp; Undergraduate, Jinan University, Zhuhai.
+- *2015.09 - 2018.06* &nbsp; No.113 Middle School, Guangzhou.
