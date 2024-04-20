@@ -57,7 +57,7 @@ Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Xiangtai Li,
 <div class='paper-box-text' markdown="1">
 
 [Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning](https://arxiv.org/abs/2312.03703) \\
-Xinshun Wang$*$, **Zhongbin Fang* **, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu📧
+Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu📧
 
 <a href='https://arxiv.org/pdf/2312.03703.pdf'>
   <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
@@ -97,10 +97,10 @@ Xinshun Wang$*$, **Zhongbin Fang* **, Xia Li, Xiangtai Li, Chen Chen, Mengyuan L
 **Zhongbin Fang**, Xia Li, Xiangtai Li, Shen Zhao📧, Mengyuan Liu📧
 
 <a href='https://arxiv.org/pdf/2401.08210.pdf'>
-  <img src='https://img.shields.io/badge/Paper-PDF-orange?style=flat&logo=arXiv&logoColor=orange' alt='arXiv PDF'>
+  <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow' alt='arXiv PDF'>
 </a>
 <a href='https://github.com/fanglaosi/PointMLS' style='padding-left: 0.5rem;'>
-  <img src='https://img.shields.io/badge/Source-Code-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Project Page'>
+  <img src='https://img.shields.io/badge/Source-Code-yellow?style=flat&logo=Google%20chrome&logoColor=yellow' alt='Project Page'>
 </a>
 
 - testing
