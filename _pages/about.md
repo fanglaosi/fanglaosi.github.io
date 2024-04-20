@@ -23,17 +23,17 @@ I am currently a graduate student at **[Sun Yat-sen University](https://www.sysu
 
 I received a B.S. degree from **[Jinan University](https://www.jnu.edu.cn/main.htm)**.
 
-My research focuses on **3D Point Cloud Analysis** and **In-Context Learning**. I am also highly interested in Large Language Models and Multimodal Models.
+My research focuses on **3D Point Cloud Analysis** and **In-Context Learning**. I am also highly interested in Large Language and Multimodal Models.
 
 I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://xialipku.github.io/) (ETH Zurich) and Dr. [Xiangtai Li](https://xialipku.github.io/) (MMLab@NTU).
 
 
 # 🔥 News
-- *2024.04*: &nbsp; [Point-In-Context-Seg](https://fanglaosi.github.io/Point-In-Context_Pages/) is released on Arxiv.
+- *2024.04*: &nbsp; [Point-In-Context-Seg](https://fanglaosi.github.io/Point-In-Context_Pages/) is released on Arxiv, 2024.
 - *2024.02*: &nbsp; [Skeleton-in-Context](https://arxiv.org/abs/2312.03703) is accepted at **CVPR'2024**. 🎉🎉🎉
 - *2023.09*: &nbsp; [Point-In-Context](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html) is accepted at **NeurIPS'2023** as a **spotlight**. 🎉🎉🎉
 - *2023.06*: &nbsp; [Point-In-Context](https://arxiv.org/abs/2306.08659) is released on Arxiv, and the [Code](https://github.com/fanglaosi/Point-In-Context) is also released. 
-- *2023.03*: &nbsp; [ModelNet-O & PointMLS](https://arxiv.org/abs/2401.08210) is released on Arxiv.
+- *2023.03*: &nbsp; [ModelNet-O & PointMLS](https://arxiv.org/abs/2401.08210) is released on Arxiv, 2023.
 
 [//]: # (# 💻 Internships)
 
@@ -53,7 +53,7 @@ Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Xiangtai Li,
   <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
 </a>
 
-- Possess stronger performance and generalization ability in segmentation tasks.
+- Possess stronger performance and generalization ability and achieve SOTA in multi-dataset segmentation tasks.
 - Can perform unique part segmentation tasks via customized prompts.
 
 </div>
@@ -76,8 +76,8 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
   <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=Google%20chrome&logoColor=green' alt='Project Page'>
 </a>
 
-- The **first** to explore in-context learning for unifying skeleton sequence modeling.
-- Solve the over-fitting problem caused by previous mask-modeling-style methods.
+- The **first** to explore in-context learning for skeleton sequence modeling.
+- Solve the over-fitting problem that is encountered when using the masked-modeling-style training framework of existing methods.
 
 </div>
 </div>
@@ -98,8 +98,9 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
   <img src='https://img.shields.io/badge/Source-Code-red?style=flat&logo=Google%20chrome&logoColor=red' alt='Project Page'>
 </a>
 
-- The **first** to explore in-context learning for 3D point cloud understanding.
-- Solve the information leakage problem caused by previous Mask Point Modeling methods.
+- The **first** to explore in-context learning for 3D point cloud.
+- Solve the information leakage problem caused by previous MPM methods.
+- Can improve the performance by selecting higher quality prompts
 
 </div>
 </div>
@@ -120,7 +121,7 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
   <img src='https://img.shields.io/badge/Source-Code-yellow?style=flat&logo=Google%20chrome&logoColor=yellow' alt='Project Page'>
 </a>
 
--  Introduce a challenging occlusion point cloud classification dataset ModelNet-O.
+-  Introduce a challenging occluded point cloud classification dataset ModelNet-O.
 -  Propose a robust occlusion-aware method, PointMLS, based on a multi-level sampling strategy.
 
 </div>
