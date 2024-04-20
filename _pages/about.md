@@ -57,7 +57,7 @@ Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Xiangtai Li,
 <div class='paper-box-text' markdown="1">
 
 [Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning](https://arxiv.org/abs/2312.03703) \\
-Xinshun Wang\ast, **Zhongbin Fang\ast**, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu📧
+Xinshun Wang$*$, **Zhongbin Fang* **, Xia Li, Xiangtai Li, Chen Chen, Mengyuan Liu📧
 
 <a href='https://arxiv.org/pdf/2312.03703.pdf'>
   <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
