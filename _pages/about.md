@@ -19,7 +19,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😀️ Biography
-I received a B.S. degree from Jinan University.
+I am currently a graduate student at **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. [Mengyuan Liu (刘梦源)](https://www.ece.pku.edu.cn/info/1046/2596.htm) (Assistant Professor in PeKing Uiniversity).
+
+I received a B.S. degree from **[Jinan University](https://www.jnu.edu.cn/main.htm)**.
+
+My research focuses on **3D Point Cloud Analysis** and **In-Context Learning**. I am also highly interested in Large Language Models and Multimodal Models.
+
+I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://xialipku.github.io/) (ETH Zurich) and Dr. [Xiangtai Li](https://xialipku.github.io/) (MMLab@NTU).
 
 
 # 🔥 News
@@ -47,10 +53,14 @@ Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Xiangtai Li,
   <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
 </a>
 
-- testing
+- Possess stronger performance and generalization ability in segmentation tasks.
+- Can perform unique part segmentation tasks via customized prompts.
 
 </div>
 </div>
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SiC.png' alt="sym" width="100%"></div></div>
@@ -66,11 +76,14 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
   <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=Google%20chrome&logoColor=green' alt='Project Page'>
 </a>
 
-
-- testing
+- The **first** to explore in-context learning for unifying skeleton sequence modeling.
+- Solve the over-fitting problem caused by previous mask-modeling-style methods.
 
 </div>
 </div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/PIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,10 +98,14 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
   <img src='https://img.shields.io/badge/Source-Code-red?style=flat&logo=Google%20chrome&logoColor=red' alt='Project Page'>
 </a>
 
-- testing
+- The **first** to explore in-context learning for 3D point cloud understanding.
+- Solve the information leakage problem caused by previous Mask Point Modeling methods.
 
 </div>
 </div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/PointMLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -103,7 +120,8 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
   <img src='https://img.shields.io/badge/Source-Code-yellow?style=flat&logo=Google%20chrome&logoColor=yellow' alt='Project Page'>
 </a>
 
-- testing
+-  Introduce a challenging occlusion point cloud classification dataset ModelNet-O.
+-  Propose a robust occlusion-aware method, PointMLS, based on a multi-level sampling strategy.
 
 </div>
 </div>
