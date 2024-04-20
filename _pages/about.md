@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😀️ Biography
-I am currently a graduate student at **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. [Mengyuan Liu (刘梦源)](https://www.ece.pku.edu.cn/info/1046/2596.htm) (Assistant Professor in PeKing Uiniversity).
+I am currently a graduate student at **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. **[Mengyuan Liu](https://www.ece.pku.edu.cn/info/1046/2596.htm)** (Assistant Professor in PeKing Uiniversity).
 
 I received a B.S. degree from **[Jinan University](https://www.jnu.edu.cn/main.htm)**.
 
