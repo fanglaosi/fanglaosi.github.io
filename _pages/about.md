@@ -32,7 +32,7 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 - *2024.04*: &nbsp; [Point-In-Context-Seg](https://fanglaosi.github.io/Point-In-Context_Pages/) is released on Arxiv, 2024.
 - *2024.02*: &nbsp; [Skeleton-in-Context](https://arxiv.org/abs/2312.03703) is accepted by **CVPR'2024**. 🎉🎉🎉
 - *2023.09*: &nbsp; [Point-In-Context](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html) is accepted by **NeurIPS'2023** as a **spotlight**. 🎉🎉🎉
-- *2023.06*: &nbsp; [Point-In-Context](https://arxiv.org/abs/2306.08659) is released on Arxiv, and the [Code](https://github.com/fanglaosi/Point-In-Context) is also released. 
+- *2023.06*: &nbsp; [Point-In-Context](https://arxiv.org/abs/2306.08659) is released on Arxiv, and the [Code](https://github.com/fanglaosi/Point-In-Context) is also open-sourced. 
 - *2023.03*: &nbsp; [ModelNet-O & PointMLS](https://arxiv.org/abs/2401.08210) is released on Arxiv, 2023.
 
 [//]: # (# 💻 Internships)
