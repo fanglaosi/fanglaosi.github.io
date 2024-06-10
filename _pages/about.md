@@ -77,7 +77,7 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
 </a>
 
 - The **first** to explore in-context learning for skeleton sequence modeling.
-- Solve the over-fitting problem that is encountered when using the masked-modeling-style training framework of existing methods.
+- Solve the over-fitting problem encountered when using the masked-modeling-style training framework of existing methods.
 
 </div>
 </div>
@@ -100,7 +100,7 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
 
 - The **first** to explore in-context learning for 3D point cloud.
 - Solve the information leakage problem caused by previous MPM methods.
-- Can improve the performance by selecting higher quality prompts
+- Can improve the performance by selecting higher-quality prompts
 
 </div>
 </div>
@@ -108,7 +108,7 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/PointMLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2024</div><img src='images/PointMLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification](https://arxiv.org/abs/2401.08210) \\
