@@ -52,7 +52,7 @@ Mingyu Yang, Junyou Li, **Zhongbin Fang**, Sheng Chen, Yangbin Yu, Qiang Fu, Wei
   <img src='https://img.shields.io/badge/Paper-PDF-orange?style=flat&logo=arXiv&logoColor=orange' alt='arXiv PDF'>
 </a>
 <a href='https://github.com/GreatX3/Playable-Game-Generation' style='padding-left: 0.5rem;'>
-  <img src='https://img.shields.io/badge/Project-Page-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Code'>
+  <img src='https://img.shields.io/badge/Code-Link-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Code'>
 </a>
 <a href='http://124.156.151.207/' style='padding-left: 0.5rem;'>
   <img src='https://img.shields.io/badge/Demo-Link-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Demo'>
