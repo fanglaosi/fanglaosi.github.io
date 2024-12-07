@@ -55,7 +55,7 @@ Mingyu Yang, Junyou Li, **Zhongbin Fang**, Sheng Chen, Yangbin Yu, Qiang Fu, Wei
   <img src='https://img.shields.io/badge/Project-Page-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Code'>
 </a>
 <a href='http://124.156.151.207/' style='padding-left: 0.5rem;'>
-  <img src='https://img.shields.io/badge/Project-Page-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Demo'>
+  <img src='https://img.shields.io/badge/Demo-Link-orange?style=flat&logo=Google%20chrome&logoColor=orange' alt='Demo'>
 </a>
 
 - We develop PlayGen to enable playable game generation with real-time interaction, sufficient visual quality, and accurate simulation of interactive mechanics.
