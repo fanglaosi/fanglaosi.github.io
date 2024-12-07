@@ -155,6 +155,7 @@ Xinshun Wang*, <strong>Zhongbin Fang*</strong>, Xia Li, Xiangtai Li, Chen Chen, 
 
 
 # 🎖 Honors and Awards
+- *2024.11* &nbsp; **National Scholarship** of Sun Yat-sen University (4%)
 - *2022.10* &nbsp; The **First Prize Scholarship** of Sun Yat-sen University
 - *2022.06* &nbsp; **Outstanding Graduate** of Jinan University
 - *2021.10* &nbsp; **National Scholarship** of Jinan University (4%)
