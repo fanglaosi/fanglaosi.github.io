@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhongbin Fang"
-description              : "Research on Deep Learning, 3D Point Clouds, and In-Context Learning"
+description              :
 repository               : "fanglaosi/fanglaosi.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhongbin Fang"
   avatar           : "images/fanglaosi.jpg"
-  bio              : "Intern in Tencent AI Lab. Master Student in SYSU."
+  bio              : "Algorithm Engineer, Tencent"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
