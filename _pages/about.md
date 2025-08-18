@@ -45,7 +45,7 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Yan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Human-in-Context: Unified Cross-Domain 3D Human Motion Modeling via In-Context Learning](https://arxiv.org/abs/2508.08601) \\
+[Yan: Foundational Interactive Video Generation](https://arxiv.org/abs/2508.08601) \\
 Deheng Ye, Fangyun Zhou, Jiacheng Lv, Jianqi Ma, Jun Zhang, Junyan Lv, Junyou Li, Minwen Deng, Mingyu Yang, Qiang Fu, Wei Yang, Wenkai Lv, Yangbin Yu, Yewen Wang, Yonghang Guan, Zhihao Hu, **Zhongbin Fang**, Zhongqian Sun. (**listed in alphabetical order**)
 
 <a href='https://arxiv.org/pdf/2508.08601'>
