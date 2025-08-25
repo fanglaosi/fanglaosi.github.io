@@ -21,9 +21,9 @@ redirect_from:
 # 😀️ Biography
 I am currently working in Tencent. Before that, I received my M.S. degree in **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. **[Mengyuan Liu](https://www.ece.pku.edu.cn/info/1046/2596.htm)** (Assistant Professor in PeKing Uiniversity).
 
-My research focuses on **3D Point Cloud Analysis**, **In-Context Learning**, and **AIGC**..
+My research focuses on **3D Point Cloud Analysis**, **In-Context Learning**, and **AIGC**.
 
-I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://xialipku.github.io/) (ETH Zurich) and Dr. [Xiangtai Li](https://xialipku.github.io/) (MMLab@NTU).
+I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://xialipku.github.io/) (ETH Zurich) and Dr. [Xiangtai Li](https://lxtgh.github.io/) (MMLab@NTU).
 
 
 # 🔥 News
