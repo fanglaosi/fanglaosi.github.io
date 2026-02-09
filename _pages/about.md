@@ -27,6 +27,7 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 
 
 # 🔥 News
+- *2026.02*: &nbsp; [Superman](https://arxiv.org/pdf/2602.02401) is released on arXiv. 
 - *2025.08*: &nbsp; [Yan](https://arxiv.org/pdf/2508.08601) is released on arXiv, the [Project](https://greatx3.github.io/Yan/) is released. 
 - *2025.08*: &nbsp; [Human-in-Context](https://arxiv.org/pdf/2508.10897) is released on arXiv, the [Code](https://github.com/BradleyWang0416/Human-in-Context) is also open-sourced. 
 - *2024.12*: &nbsp; [PlayGen](https://arxiv.org/pdf/2412.00887) is released on arXiv, the [Code](https://github.com/GreatX3/Playable-Game-Generation) and [Demo](http://124.156.151.207/) is also open-sourced. 
@@ -41,6 +42,24 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/superman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation](https://arxiv.org/abs/2602.02401) \\
+Xinshun Wang∗, Peiming Li∗, Ziyi Wang∗, **Zhongbin Fang**, Zhichao Deng, Songtao Wu, Jason Li, Mengyuan Liu📧
+
+<a href='https://arxiv.org/pdf/2602.02401.pdf'>
+  <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow' alt='arXiv PDF'>
+</a>
+
+-  propose a unified generative framework that leverages a single MLLM for multi-task, multi-modal human motion analysis, bridging the gap between motion perception
+and generation.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Yan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
