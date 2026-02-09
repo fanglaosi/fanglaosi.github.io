@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😀️ Biography
-I am currently working in Tencent. Before that, I received my M.S. degree in **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. **[Mengyuan Liu](https://www.ece.pku.edu.cn/info/1046/2596.htm)** (Assistant Professor in PeKing Uiniversity).
+I am currently working in Tencent. Before that, I received my M.S. degree in **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. **[Mengyuan Liu](https://www.ece.pku.edu.cn/info/1046/2596.htm)** (Assistant Professor in Peking Uiniversity).
 
 My research focuses on **3D Point Cloud Analysis**, **In-Context Learning**, and **AIGC**.
 
