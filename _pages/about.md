@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😀️ Biography
-I am currently working in Tencent. Before that, I received my M.S. degree in **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. **[Mengyuan Liu](https://www.ece.pku.edu.cn/info/1046/2596.htm)** (Assistant Professor in Peking Uiniversity).
+I am currently working in Tencent. Before that, I received my M.S. degree in **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, advised by Prof. **[Mengyuan Liu](https://www.ece.pku.edu.cn/info/1046/2596.htm)** (Assistant Professor in Peking University).
 
 My research focuses on **3D Point Cloud Analysis**, **In-Context Learning**, and **AIGC**.
 
@@ -27,7 +27,7 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 
 
 # 🔥 News
-- *2026.02*: &nbsp; [Superman](https://arxiv.org/pdf/2602.02401) is released on arXiv. 
+- *2026.02*: &nbsp; [Superman](https://arxiv.org/pdf/2602.02401) is accepted by **CVPR'2026**. 🎉🎉🎉
 - *2025.08*: &nbsp; [Yan](https://arxiv.org/pdf/2508.08601) is released on arXiv, the [Project](https://greatx3.github.io/Yan/) is released. 
 - *2025.08*: &nbsp; [Human-in-Context](https://arxiv.org/pdf/2508.10897) is released on arXiv, the [Code](https://github.com/BradleyWang0416/Human-in-Context) is also open-sourced. 
 - *2024.12*: &nbsp; [PlayGen](https://arxiv.org/pdf/2412.00887) is released on arXiv, the [Code](https://github.com/GreatX3/Playable-Game-Generation) and [Demo](http://124.156.151.207/) is also open-sourced. 
@@ -44,7 +44,7 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/superman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/superman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation](https://arxiv.org/abs/2602.02401) \\
