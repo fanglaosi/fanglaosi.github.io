@@ -27,12 +27,13 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 
 
 # 🔥 News
+- *2026.02*: &nbsp; [Point-In-Context++](https://arxiv.org/pdf/2404.12352),the extended version of PIC, is accepted by **IJCV'2026**. 🎉🎉🎉
 - *2026.02*: &nbsp; [Superman](https://arxiv.org/pdf/2602.02401) is accepted by **CVPR'2026**. 🎉🎉🎉
 - *2025.08*: &nbsp; [Yan](https://arxiv.org/pdf/2508.08601) is released on arXiv, the [Project](https://greatx3.github.io/Yan/) is released. 
 - *2025.08*: &nbsp; [Human-in-Context](https://arxiv.org/pdf/2508.10897) is released on arXiv, the [Code](https://github.com/BradleyWang0416/Human-in-Context) is also open-sourced. 
 - *2024.12*: &nbsp; [PlayGen](https://arxiv.org/pdf/2412.00887) is released on arXiv, the [Code](https://github.com/GreatX3/Playable-Game-Generation) and [Demo](http://124.156.151.207/) is also open-sourced. 
 - *2024.06*: &nbsp; [ModelNet-O & PointMLS](https://arxiv.org/abs/2401.08210) is accepted by **CVIU'2024**. 🎉🎉🎉
-- *2024.04*: &nbsp; [Point-In-Context-Seg](https://fanglaosi.github.io/Point-In-Context_Pages/) is released on Arxiv, 2024.
+- *2024.04*: &nbsp; [Point-In-Context++](https://fanglaosi.github.io/Point-In-Context_Pages/) is released on Arxiv, 2024.
 - *2024.02*: &nbsp; [Skeleton-in-Context](https://arxiv.org/abs/2312.03703) is accepted by **CVPR'2024**. 🎉🎉🎉
 - *2023.09*: &nbsp; [Point-In-Context](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html) is accepted by **NeurIPS'2023** as a **spotlight**. 🎉🎉🎉
 - *2023.06*: &nbsp; [Point-In-Context](https://arxiv.org/abs/2306.08659) is released on arXiv, and the [Code](https://github.com/fanglaosi/Point-In-Context) is also open-sourced. 
@@ -42,6 +43,25 @@ I am fortunate to have the opportunity to collaborate with Dr. [Xia Li](https://
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/PIC-Seg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Point-In-Context: Understanding Point Cloud via In-Context Learning](https://arxiv.org/abs/2404.12352) \\
+Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Deheng Ye, Xiangtai Li, Chen Change Loy
+
+<a href='https://arxiv.org/pdf/2404.12352.pdf'>
+  <img src='https://img.shields.io/badge/Paper-PDF-blue?style=flat&logo=arXiv&logoColor=blue' alt='arXiv PDF'>
+</a>
+<a href='https://fanglaosi.github.io/Point-In-Context_Pages/' style='padding-left: 0.5rem;'>
+  <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
+</a>
+
+- Possess stronger performance and generalization ability and achieve SOTA in multi-dataset segmentation tasks.
+- Can perform unique part segmentation tasks via customized prompts.
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/superman.png' alt="sym" width="100%"></div></div>
@@ -124,30 +144,6 @@ Mingyu Yang, Junyou Li, **Zhongbin Fang**, Sheng Chen, Yangbin Yu, Qiang Fu, Wei
 
 </div>
 </div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/PIC-Seg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Point-In-Context: Understanding Point Cloud via In-Context Learning](https://arxiv.org/abs/2404.12352) \\
-Mengyuan Liu, **Zhongbin Fang📧**, Xia Li📧, Joachim M Buhmann, Deheng Ye, Xiangtai Li, Chen Change Loy
-
-<a href='https://arxiv.org/pdf/2404.12352.pdf'>
-  <img src='https://img.shields.io/badge/Paper-PDF-blue?style=flat&logo=arXiv&logoColor=blue' alt='arXiv PDF'>
-</a>
-<a href='https://fanglaosi.github.io/Point-In-Context_Pages/' style='padding-left: 0.5rem;'>
-  <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
-</a>
-
-- Possess stronger performance and generalization ability and achieve SOTA in multi-dataset segmentation tasks.
-- Can perform unique part segmentation tasks via customized prompts.
-
-</div>
-</div>
-
 
 
 
